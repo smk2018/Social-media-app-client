@@ -1,3 +1,5 @@
+This is my social media app's client part and app webiste is https://kind-dubinsky-971ca9.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
