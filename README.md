@@ -1,4 +1,4 @@
-This is my social media app's client part and app webiste is https://kind-dubinsky-971ca9.netlify.app/
+This is my social media app's client part and app webiste is https://smk2018-social-media-app.netlify.app/
 
 # Getting Started with Create React App
 
